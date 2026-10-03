@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Test outputs
+test_results/
+*.json
+
+# Generated media
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.yuv
+interpolation_result.png
+
+# OS
+.DS_Store
+Thumbs.db
